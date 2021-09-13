@@ -1,0 +1,70 @@
+
+.transparent{
+  width: 1000px;
+  padding: 50px;
+  margin: auto;
+  background-color: rgba(0, 0, 0, 0.5);
+  font-family: 'Work Sans', sans-serif;
+  border-radius: 20px;
+}
+
+body {
+  background-image: url('background.jpg');
+  background-size:     cover;
+
+}
+
+h1, .logo {
+  color: #00dd00;
+}
+
+.logo {
+  width: 300px;
+  margin: auto;
+  display: block;
+}
+
+nav {
+  background-color: #00dd00;
+  width: 80%;
+  padding: 10px;
+  margin: 1px 100px 40px;
+}
+
+.title, nav {
+  text-align: center;
+}
+
+.ablescooter {
+  color: white;
+}
+
+.scootertype {
+  font-size: 20px;
+}
+
+.riga1, .riga2 {
+  display: block;
+  font-size: 15px;
+}
+
+.linebar1 {
+  background-color: #ffc107;
+  padding: 10px;
+  width: 40%;
+  border-radius: 20px;
+}
+
+.linebar2 {
+  background-color: #00dd00;
+  padding: 10px;
+  width: 60%;
+  border-radius: 20px;
+}
+
+.linebar3 {
+  background-color: red;
+  padding: 10px;
+  width: 20%;
+  border-radius: 20px;
+}
